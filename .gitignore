@@ -18,7 +18,7 @@ pom.xml
 activemq-data/
 
 classes/
-/build
+build/
 buildSrc/build
 /spring-*/build
 /spring-core/kotlin-coroutines/build
@@ -26,6 +26,8 @@ buildSrc/build
 /integration-tests/build
 /src/asciidoc/build
 target/
+
+generated/
 
 # Eclipse artifacts, including WTP generated manifests
 .classpath
